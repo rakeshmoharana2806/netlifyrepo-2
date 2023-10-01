@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          RAKESH-NETLIFY 2 DEMO
         </a>
       </header>
     </div>
